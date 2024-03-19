@@ -18,6 +18,10 @@ this.eventDate=eventDate;
 this.eventAttendees = new ArrayList<>();
 }
 
+public Event() {
+    //TODO Auto-generated constructor stub
+}
+
 public String getEventID() {
 return eventID;
 }
